@@ -13,4 +13,4 @@ Pick an Instagram profile URL and this Node app will collect their profile infor
 ## Lessons Learned
 * How to work with Puppeteer
 * How to write Node JS apps.
-* How to webscrape information
+* How to webscrape information.
